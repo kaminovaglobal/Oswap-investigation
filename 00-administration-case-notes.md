@@ -1,8 +1,11 @@
 # OSwap–SUNUSI Investigation
 
 Case ID: OSWAP-SUNUSI-2026-001
+
 Researcher: Engr Ibrahim Aliyu S Kamina
+
 Start date: July 10
+
 Status: Preliminary investigation
 
 ## Objective
@@ -17,10 +20,3 @@ Determine whether reported SUNUSI losses resulted from:
 6. Unauthorized withdrawals
 7. Malicious or vulnerable smart-contract logic
 
-## Rules
-
-- Preserve original evidence
-- Separate facts from allegations
-- Record timestamps in UTC
-- Do not test with meaningful funds
-- Do not access accounts without authorization
